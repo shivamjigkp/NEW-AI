@@ -47,4 +47,13 @@ cout<<i;
 char ch = 'b';
 cout<< ch;
 
+
+     
+char y = -5;
+cout<< y;
+
+char ch= -5;
+cout<< ch;
+
+
 }
